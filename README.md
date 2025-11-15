@@ -17,7 +17,7 @@ Input Layer (6) → Hidden Layer (6, ReLU) → Output Layer (1, Sigmoid)
 Total Parameters: 49
 ```
 
-## 🔬 Analysis Techniques
+## Analysis Techniques
 
 ### 1. **Weight Visualization**
 - Heatmaps of input→hidden and hidden→output weights
